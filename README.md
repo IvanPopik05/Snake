@@ -1,1 +1,1 @@
-# Snake
+# Snake2D
